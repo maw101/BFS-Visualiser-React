@@ -1,14 +1,10 @@
 import React from 'react';
-import './App.css';
+import BFS from './BFS/BFS'
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          Make Additions
-        </p>
-      </header>
+      <BFS></BFS>
     </div>
   );
 }
