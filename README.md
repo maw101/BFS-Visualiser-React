@@ -10,7 +10,9 @@ Arrows on each non-wall hexagon signify the direction from which the given hexag
 
 ## Screenshots
 
-![](README_ASSETS/canvas_blank.png))
+![](README_ASSETS/canvas_path_1.png)
+*Canvas showing a path from the starting hexagon in the bottom left to the destination hexagon in the top right*
 
-![](README_ASSETS/canvas_path_1.png))
+![](README_ASSETS/canvas_blank.png)
+*Blank Canvas*
 
