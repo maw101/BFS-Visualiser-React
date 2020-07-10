@@ -8,6 +8,9 @@ The BFS algorithm is ran between two user defined points. The user defines the s
 
 Arrows on each non-wall hexagon signify the direction from which the given hexagon was visited during the BFS algorithm run.
 
+![](README_ASSETS/demo_gif.gif)
+*Demonstration of the Visualiser*
+
 ## Screenshots
 
 ![](README_ASSETS/canvas_path_1.png)
